@@ -1,3 +1,6 @@
+-------------------------------------------------------------
+--Q1: Do delays spike during certain hours of the day?
+-------------------------------------------------------------	
 SELECT 
 	CASE
 		WHEN HOUR(scheduled_departure_time ) BETWEEN 6 AND 11 THEN 'Morning'

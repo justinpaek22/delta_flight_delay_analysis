@@ -1,3 +1,6 @@
+-------------------------------------------------------------
+-- Q4: What category of delays contribute the most at ATL?
+-------------------------------------------------------------
 SELECT 
 	ROUND(SUM(delay_carrier),2),
     ROUND(SUM(delay_weather),2),

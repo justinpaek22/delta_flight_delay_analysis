@@ -1,3 +1,6 @@
+----------------------------------------------------------------------------
+-- Q3: Which airports have the highest average arrival and departure delays?
+----------------------------------------------------------------------------
 SELECT 
 	airport,
     ROUND(AVG(departure_delay),2) AS avg_departdelay,

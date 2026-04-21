@@ -3,4 +3,6 @@ Pulled public datasets from the Bureau of Transportation on flight delays from s
 
 Analysis of flight delays in selected airports using Python, SQL and Tableau
 
-Cleaned and standardized formats across all datasets to properly import into SQL for further analysis
+Cleaned and standardized formats across all datasets using Python to properly import into SQL for further analysis
+
+Aggregated and grouped tables to pull insights on flight delays using SQL 

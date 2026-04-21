@@ -1,5 +1,5 @@
 -------------------------------------------------------------
---Q1: Do delays spike during certain hours of the day?
+-- Q1: Do delays spike during certain hours of the day?
 -------------------------------------------------------------	
 SELECT 
 	CASE

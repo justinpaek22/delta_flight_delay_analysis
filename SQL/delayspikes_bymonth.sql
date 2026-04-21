@@ -1,3 +1,6 @@
+-------------------------------------------------------------
+-- Q2: Do delays spike during certain months of the year?
+-------------------------------------------------------------
 SELECT 
     MONTH(flight_date) AS month,
     ROUND(AVG(departure_delay), 2) AS avg_departure_delay,

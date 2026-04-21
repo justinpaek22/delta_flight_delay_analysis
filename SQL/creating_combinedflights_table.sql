@@ -1,3 +1,6 @@
+-------------------------------------------------------------
+-- Combined all cleaned flight datasets for further analysis 
+-------------------------------------------------------------
 CREATE TABLE flight_combined AS
 SELECT *, 'ATL' AS airport FROM atl_cleaned
 UNION ALL

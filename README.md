@@ -1,10 +1,11 @@
 # Delta Flight Delay Analysis
-OVERVIEW
+OVERVIEW:
+
 This project analyzes Delta airline delays at different airports using SQL, Python, and Tableau to identify when and why delays occur.
 
+Airports include: 
 
-
-Airports include: ATL (Hartsfield-Jackson Atlanta International Airport) , DTW (Detroit Metropolitan Wayne County Airport), 
+ATL (Hartsfield-Jackson Atlanta International Airport) , DTW (Detroit Metropolitan Wayne County Airport), 
 JFK (John F. Kennedy International Airport), LAX (Los Angeles International Airport), MSP (Minneapolis-Saint Paul International Airport)
 
 Analysis of flight delays in selected airports using Python, SQL and Tableau

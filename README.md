@@ -8,10 +8,20 @@ Airports include:
 ATL (Hartsfield-Jackson Atlanta International Airport) , DTW (Detroit Metropolitan Wayne County Airport), 
 JFK (John F. Kennedy International Airport), LAX (Los Angeles International Airport), MSP (Minneapolis-Saint Paul International Airport)
 
-Analysis of flight delays in selected airports using Python, SQL and Tableau
+Tools Used:
 
-Cleaned and standardized formats across all datasets using Python to properly import into SQL for further analysis
+Python ( data cleaning/formatting with pandas )
+SQL ( data extraction and aggregation )
+Tableau ( data visualization )
 
-Aggregated and grouped tables to pull insights on flight delays using SQL 
+Dataset:
 
 Pulled public datasets from the Bureau of Transportation
+
+Key Insights:
+
+Among the 5 airports, ATL Delta flights arrive and depart earliest on average. 
+Lower arrival delays contribute to lower departure delays.
+In ATL, departure delays peak the highest during the summer months
+Carrier delays are the largest contributor to flight delays
+
